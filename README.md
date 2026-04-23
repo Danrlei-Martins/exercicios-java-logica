@@ -1,2 +1,2 @@
 # exercicios-java-logica
-Resolução da Lista 02 de exercícios de lógica de programação utilizando a linguagem Java.
+Resolução das Listas de exercícios de lógica de programação do PJP, utilizando a linguagem Java.
